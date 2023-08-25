@@ -1,0 +1,18 @@
+.container {
+  border: 1px solid black;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%);
+  background: green;
+  color: white;
+  width: 500px;
+}
+.DeleteStyle {
+  background: red;
+  border: none;
+  border-radius: 5px;
+}
+.flexStyle {
+  margin: auto;
+  text-align: center;
+}
