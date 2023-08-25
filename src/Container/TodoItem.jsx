@@ -1,4 +1,3 @@
-// TodoItem.js
 import React from "react";
 import "./Todolist.css";
 const TodoItem = ({ index, task, toggleTask, deleteTask }) => {

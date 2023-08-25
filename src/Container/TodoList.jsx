@@ -1,4 +1,3 @@
-// TodoList.js
 import React, { useState } from "react";
 import TodoItem from "./TodoItem";
 import "./Todolist.css";
